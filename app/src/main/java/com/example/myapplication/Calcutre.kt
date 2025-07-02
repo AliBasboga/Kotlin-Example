@@ -74,7 +74,7 @@ class Calcutre : AppCompatActivity() {
             sonuc = sayi1!! / sayi2!!
             binding.textView4.text = "Sonuç: $sonuc"
         }else{
-            binding.textView4.text = "Sayı giriniz"
+            binding.textView4.text = "Sayı Girniz"
         }
     }
 }
