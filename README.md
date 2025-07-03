@@ -69,5 +69,4 @@
 <p><strong><font style="vertical-align: inherit;"></font><a href="https://kotlinlang.org/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gradle</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> kullanımı </font><font style="vertical-align: inherit;">:</font></font></strong></p>
 <pre><code class="language-sh">gradle test
 </code></pre>
-<hr>
-<hr></div></div></div></div>
+</div></div></div></div>
