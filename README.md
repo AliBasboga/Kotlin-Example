@@ -14,16 +14,8 @@
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat&amp;logo=Kotlin&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
 </div>
 <br>
-<hr>
-<h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">İçindekiler</font></font></h2>
-<ul class="list-disc pl-4 my-0">
-<li class="my-0"><a href="#overview"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Genel bakış</font></font></a></li>
-<li class="my-0"><a href="#getting-started"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Başlarken</font></font></a>
-<ul class="list-disc pl-4 my-0">
-<li class="my-0"><a href="#prerequisites"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ön koşullar</font></font></a></li>
-<li class="my-0"><a href="#installation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kurulum</font></font></a></li>
-<li class="my-0"><a href="#usage"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kullanım</font></font></a></li>
-<li class="my-0"><a href="#testing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Test</font></font></a></li>
+
+
 </ul>
 </li>
 </ul>
